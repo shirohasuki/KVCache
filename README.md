@@ -2,13 +2,13 @@
 ## Requirements
 
 
-
+### Use requirements.txt Method
 ```
 conda create -n KVCache python=3.9
 conda activate KVCache
 pip install -r requirements.txt
 ```
-or
+### Use environment.yml Method
 ```
 conda env create -f environment.yml
 conda activate KVCache
