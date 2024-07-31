@@ -1,5 +1,5 @@
 scalesim
-pytorch==2.0.0
+torch==2.0.0
 matplotlib
 seaborn
 scipy
