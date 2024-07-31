@@ -1,11 +1,11 @@
 
 ## Requirements
 
-python=3.9
 
-pytorch
 
 ```
+conda create -n KVCache python=3.9
+conda activate KVCache
 pip install -r requirements.txt
 ```
 
