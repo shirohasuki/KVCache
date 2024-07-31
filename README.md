@@ -27,4 +27,6 @@ git submodule update --recursive
 
 ## Thanks
 
-Thank for **LLMCompass**  repository.[**LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference**]
+Thank for **LLMCompass**  repository.
+
+[**LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference**]
