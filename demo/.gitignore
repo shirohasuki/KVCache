@@ -1,4 +1,0 @@
-*.pdf
-*.csv
-!**/real_hardware/**/*.csv
-!expected_results/*

@@ -1,8 +1,6 @@
 
 ## Requirements
 
-
-
 ```
 conda create -n KVCache python=3.9
 conda activate KVCache
