@@ -4,4 +4,4 @@ temp/
 .vscode/
 *.ncu-rep
 
-ae/
+demo/expected_results
