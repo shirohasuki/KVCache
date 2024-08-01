@@ -2,6 +2,7 @@
 ## Requirements
 
 python=3.9
+
 pytorch
 
 ```
@@ -12,10 +13,10 @@ pip install -r requirements.txt
 ## Installation
 
 ```
-$ git clone link
-$ cd LLMCompass
-$ git submodule init
-$ git submodule update --recursive
+git clone https://github.com/shirohasuki/KVCache
+cd KVCache
+git submodule init
+git submodule update --recursive
 ```
 
 ## Quick Start
@@ -26,4 +27,6 @@ $ git submodule update --recursive
 
 ## Thanks
 
-Thank for **LLMCompass**  repository.[**LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference**]
+Thank for **LLMCompass**  repository.
+
+[**LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference**]
